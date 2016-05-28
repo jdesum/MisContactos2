@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis Contactos</string>
+    
+    <!-- textos muestras detalle contacto -->
+    <string name="nombre">Samanta Fox</string>
+    <string name="telefono">55557777</string>
+    <string name="email">sfox@gmail.com</string>
+    
+    <!-- parametros intent como variables globales -->
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
